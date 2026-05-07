@@ -1,0 +1,6 @@
+{
+  "name": "Błyskacz Latarki",
+  "description": "Aplikacja do automatycznego migania latarką 5 razy.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
